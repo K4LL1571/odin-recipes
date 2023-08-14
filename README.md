@@ -21,6 +21,6 @@ Used best practices for directory management
 Created a recipe page template to increase effeciency
     odin-recipes/recipes/recipe-template.html
 
-
+Meant for educational purposes. All images and recipes sourced from allrecipes.com
 
 
